@@ -1,0 +1,5 @@
+outs:
+- md5: 3ef8f5ef3972c20b9ca93e31a383163a.dir
+  size: 2417761
+  nfiles: 391
+  path: cv_data
